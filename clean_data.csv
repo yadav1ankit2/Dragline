@@ -1,4 +1,4 @@
-NAME OF EQUPT.,SOLID,R/H,WRK/HRS,IDL/HRS,MNT/HRS,BD/HRS,TOTAL
+NAME OF EQUPT.,SOLID,Rehandling,Working_hours,Idle_hours,Maintenance_hours,Breakdown_hours,Total_hours
 D/L Bajrang,294580,0,582,59.5,70.5,8,720
 D/L Matang,247598,51012,582,46.5,55,36.5,720
 D/L Krishna,208512,135536,566,69,67.5,17.5,720
